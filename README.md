@@ -5,19 +5,19 @@ This small experiment demonstrates interactive 3D rendering, texture mapping, an
 
 ## 🚀 How to Run
 
-# Clone the repository
+### Clone the repository
 git clone https://github.com/yourusername/cylinder-showcase.git
 
-# Navigate into the project folder
+### Navigate into the project folder
 cd cylinder-showcase
 
-# Install dependencies
+### Install dependencies
 npm install
 
-# Start the development server
+### Start the development server
 npm run dev
 
-# Open in browser
+### Open in browser
 http://localhost:5173
 
 
