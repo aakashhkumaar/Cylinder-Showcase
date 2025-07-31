@@ -1,27 +1,27 @@
-#🌀 3D Cylinder Showcase — React + Three.js
+# 🌀 3D Cylinder Showcase — React + Three.js
 
 A mini project built to explore React + WebGL using @react-three/fiber and Three.js.
 This small experiment demonstrates interactive 3D rendering, texture mapping, and orbit controls — perfect as a practice ground for creative frontend and 3D UI design.
 
-##🚀 How to Run
+## 🚀 How to Run
 
-#Clone the repository
+# Clone the repository
 git clone https://github.com/yourusername/cylinder-showcase.git
 
-#Navigate into the project folder
+# Navigate into the project folder
 cd cylinder-showcase
 
-#Install dependencies
+# Install dependencies
 npm install
 
-#Start the development server
+# Start the development server
 npm run dev
 
-#Open in browser
+# Open in browser
 http://localhost:5173
 
 
-##🛠 Tech Stack
+## 🛠 Tech Stack
 
 - React.js — Component-based architecture for building UI
 
@@ -35,7 +35,7 @@ http://localhost:5173
 
 - Vite — Lightning-fast development setup
 
-##✨ Features
+## ✨ Features
 
 - Interactive 3D Cylinder: Fully orbitable using mouse drag
 
@@ -47,18 +47,18 @@ http://localhost:5173
 
 - Great Starter for Creative Frontend: Easy to extend with more 3D shapes & animations
 
-##📂 Project Structure
+## 📂 Project Structure
 
 src/
- ├── App.jsx        # Canvas + OrbitControls + Cylinder Component
- ├── Cyl.jsx        # Cylinder mesh with texture mapping
- ├── main.jsx       # React entry point
- ├── style.css      # Basic canvas & layout styling
- └── index.css      # Tailwind setup
+ ├── App.jsx        
+ ├── Cyl.jsx        
+ ├── main.jsx     
+ ├── style.css      
+ └── index.css   
 public/
- └── Image.jpg      # Texture used for cylinder
+ └── Image.jpg     
 
-##🎥 Demo
+## 🎥 Demo
 
 https://cylinder-showcase.vercel.app/
 
